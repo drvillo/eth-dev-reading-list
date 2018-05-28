@@ -12,6 +12,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   8. [Full Stack Hello World Voting Ethereum Dapp Tutorial](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
   9. [Getting started with Ethereum & Solidity on Windows — part 1](https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e9953a1)
   10. [Getting started with Ethereum, Solidity & Geth — part 2](https://medium.com/@wslyvh/getting-started-with-ethereum-solidity-geth-part-2-d195144fe6c7)
+  11. [Hello World Ethereum: Create an Ethereum smart contract and interact with it from a website](https://steemit.com/ethereum/@yalb/hello-world-ethereum-create-an-ethereum-smart-contract-and-interact-with-it-from-a-website)
 
 ## Security 
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
